@@ -9,3 +9,6 @@
   * [Maximum Power Transfer](Week%201/Maximum%20Power%20Transfer/README.md)
 
 * Week 2 -  Modeling in the Frequency Domain
+
+## Environment
+MATLAB R2019a
