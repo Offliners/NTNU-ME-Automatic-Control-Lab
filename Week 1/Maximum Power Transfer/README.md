@@ -29,7 +29,7 @@ gtext('Current')
 gtext('Pout/Pin')
 grid on
 ```
-[Link]
+[Link](maximum_power_transfer.m)
 
 ### Result
 ![Result](https://github.com/Offliners/NTNU_ME_Automatic_Control_Lab/blob/master/Week%201/Maximum%20Power%20Transfer/maximum_power_transfer_Result.PNG)
