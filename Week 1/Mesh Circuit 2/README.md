@@ -2,7 +2,7 @@
 ### Question
 Use Matlab to find the mesh currents in the network
 
-![Circuit]()
+![Circuit](https://github.com/Offliners/NTNU_ME_Automatic_Control_Lab/blob/master/Week%201/Mesh%20Circuit%202/Mesh_Circuit_2.PNG)
 
 ### Solution
 ```matlab
