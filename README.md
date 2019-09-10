@@ -1,1 +1,4 @@
-# NTNU_ME_Automatic_Control_Lab
+# NTNU ME Automatic Control Lab
+## Content
+* Week 1
+Matlab Basic
