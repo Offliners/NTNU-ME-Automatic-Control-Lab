@@ -17,3 +17,4 @@ else
 ### Solution
 
 ### Result
+![Result](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%202/Experiment%202-4-1/Result.gif)
