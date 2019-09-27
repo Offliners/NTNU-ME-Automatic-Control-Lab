@@ -41,3 +41,15 @@ F = 2*(s+3)*(s+5)*(s+7)/(s*(s+8)*(s^2+10*s+100))
 f = ilaplace(F)
 ```
 [Link](Experiment_2_2_d.m)
+
+#### Lab e
+```matlab
+
+```
+[Link](Experiment_2_2_e.m)
+
+#### Lab f
+```matlab
+
+```
+[Link](Experiment_2_2_f.m)
