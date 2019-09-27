@@ -22,3 +22,12 @@ F = zpk(numg,deng,K)
 collect(2*(s+3)*(s+5)*(s+7)/(s*(s+8)*(s^2+10*s+100)))
 ```
 [Link](Experiment_2_2_b.m)
+
+#### Lab c
+```matlab
+syms t
+f = 0.0075 - 0.00034*exp(-2.5*t)*cos(22*t) + 0.087*exp(-2.5*t)*sin(22*t) - 0.0072*exp(-8*t)
+'F(s)'
+F = laplace(f)
+```
+[Link](Experiment_2_2_c.m)
