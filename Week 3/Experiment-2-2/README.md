@@ -31,3 +31,13 @@ f = 0.0075 - 0.00034*exp(-2.5*t)*cos(22*t) + 0.087*exp(-2.5*t)*sin(22*t) - 0.007
 F = laplace(f)
 ```
 [Link](Experiment_2_2_c.m)
+
+#### Lab d
+```matlab
+syms s
+'F(s)'
+F = 2*(s+3)*(s+5)*(s+7)/(s*(s+8)*(s^2+10*s+100))
+'f(t)'
+f = ilaplace(F)
+```
+[Link](Experiment_2_2_d.m)
