@@ -9,3 +9,16 @@ Lab a
 syms t
 f = 0.0075 - 0.00034*exp(-2.5*t)*cos(22*t) + 0.087*exp(-2.5*t)*sin(22*t) - 0.0072*exp(-8*t)
 ```
+[Link]()
+
+Lab b
+```matlab
+syms s
+numg = [-3 -5 -7]
+deng = [0 -8 -5+8.6603i -5-8.6603i]
+K = 2
+'F(s)'
+F = zpk(numg,deng,K)
+collect(2*(s+3)*(s+5)*(s+7)/(s*(s+8)*(s^2+10*s+100)))
+```
+[Link]()
