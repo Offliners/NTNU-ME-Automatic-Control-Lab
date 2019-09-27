@@ -34,3 +34,6 @@
 MATLAB R2019a
 
 LabVIEW 2014
+
+## Reference
+Control Systems Engineering 7th Ed - Nise
