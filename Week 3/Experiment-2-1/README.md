@@ -16,7 +16,7 @@ P5 = conv(P1,P2)
 
 #### Lab 2
 ```matlab
-
+P6 = poly([-7 -8 -3 -5 -9 -10])
 ```
 [Link](Experiment_2_1_2.m)
 
