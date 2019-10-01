@@ -11,7 +11,8 @@
   * [Experiment 2.1](Week%203/Experiment-2-1/README.md)
   * [Experiment 2.2](Week%203/Experiment-2-2/README.md)
 * Week 4 - Modeling in the Frequency Domain
-
+  * [Experiment 2.5.1](Week%204/Experiment-2-5-1/README.md)
+  * [Experiment 2.5.2](Week%204/Experiment-2-5-2/README.md)
 * Week 5 - Modeling in the Frequency Domain
 * Week 6 - Time Response
 * Week 7 - Exam I
