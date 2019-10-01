@@ -1,20 +1,17 @@
 # NTNU ME Automatic Control Lab(2019)
 ## Content
 * Week 1 - Matlab Basic
-
   * [Mesh Circuit 1](Week%201/Mesh%20Circuit%201/README.md)
   * [Mesh Circuit 2](Week%201/Mesh%20Circuit%202/README.md)
   * [Maximum Power Transfer](Week%201/Maximum%20Power%20Transfer/README.md)
-
 * Week 2 - Modeling in the Frequency Domain
-
   * [Experiment 2.4.1](Week%202/Experiment%202-4-1/README.md)
   * [Experiment 2.4.2](Week%202/Experiment%202-4-2/README.md)
 * Week 3 - Modeling in the Frequency Domain
-
   * [Experiment 2.1](Week%203/Experiment-2-1/README.md)
   * [Experiment 2.2](Week%203/Experiment-2-2/README.md)
 * Week 4 - Modeling in the Frequency Domain
+
 * Week 5 - Modeling in the Frequency Domain
 * Week 6 - Time Response
 * Week 7 - Exam I
