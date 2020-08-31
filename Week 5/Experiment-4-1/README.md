@@ -11,11 +11,11 @@
 #### Lab 1
 * Simulink
 
-![Lab1_simulink]()
+![Lab1_simulink](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%205/Experiment-4-1/Lab1_simulink.PNG)
 
 * Simulink LTI Viewer
 
-![Simulink LTI Viewer]()
+![Simulink LTI Viewer](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%205/Experiment-4-1/Lab1_LTI.PNG)
 
 #### Lab 2
 #### Lab 3
