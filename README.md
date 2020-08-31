@@ -32,9 +32,9 @@
 * Week 17 - Frequency Response Techniques 
 * Week 18 - Exam III
 
-## Environment
+## IDE
 * `MATLAB R2019a`
 * `LabVIEW 2014`
 
 ## Reference
-Control Systems Engineering 7th Ed - Nise
+* Control Systems Engineering 7th Ed - Nise
