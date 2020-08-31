@@ -1,4 +1,5 @@
-# NTNU ME Automatic Control Lab(2019)
+# NTNU ME Automatic Control Lab
+* NTNU ME Automatic Control Lab (2019 Fall)
 ## Content
 * Week 1 - Matlab Basic
   * [Mesh Circuit 1](Week%201/Mesh%20Circuit%201/README.md)
@@ -16,6 +17,8 @@
 * Week 5 - Modeling in the Frequency Domain
   * [Experiment 4.1](Week%205/Experiment-4-1/README.md)
 * Week 6 - Time Response
+  * [Experiment 2.6.1](Weel%206/Experiment-2-6-1/README.md)
+  * [Experiment 2.6.2](Weel%206/Experiment-2-6-2/README.md)
 * Week 7 - Exam I
 * Week 8 - Time Response
 * Week 9 - Time Response
