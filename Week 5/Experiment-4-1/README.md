@@ -51,10 +51,10 @@ G3 = tf(imag3(1)*imag3(2), poly([imag3(1) imag3(2)]))
 
 * Simulink
 
-![Lab3_simulink]()
+![Lab3_simulink](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%205/Experiment-4-1/Lab2_simulink.PNG)
 
 * Simulink LTI Viewer
 
-![Simulink LTI Viewer]()
+![Simulink LTI Viewer](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%205/Experiment-4-1/Lab3_LTI.PNG)
 
 #### Lab 4
