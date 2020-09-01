@@ -18,5 +18,24 @@
 ![Simulink LTI Viewer](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%205/Experiment-4-1/Lab1_LTI.PNG)
 
 #### Lab 2
+* Matlab
+```matlab
+G1 = tf([25], [1 4 25])
+pole1 = roots([1 4 25]);
+real2 = [real(pole1(1))+pole1(1) real(pole1(2))+pole1(2)];
+img3 = [real(pole1(1)*(-0.5))+pole1(1) real(pole1(2)*(-0.5))+pole1(2)];
+G2 = tf(real2(1)*real2(2), poly([real2(1) real2(2)]))
+G3 = tf(img3(1)*img3(2), poly([img3(1) img3(2)]))
+```
+[Link](Lab4_1_2.m)
+
+* Simulink
+
+![Lab2_simulink]()
+
+* Simulink LTI Viewer
+
+![Simulink LTI Viewer]()
+
 #### Lab 3
 #### Lab 4
