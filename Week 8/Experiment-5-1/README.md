@@ -51,7 +51,9 @@ T = minreal(T)
 #### Lab 3
 * Matlab
 ```matlab
-
+G = tf([1 1], conv([1 0], [1 2]));
+H = tf([1 3], [1 4]);
+T = G / (1 + G * H)
 ```
 [Link](Lab3.m)
 
