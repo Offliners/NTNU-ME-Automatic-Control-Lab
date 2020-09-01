@@ -16,6 +16,9 @@ T = G1 * G2 * G3;
 numg = sym2poly(numg);
 deng = sym2poly(deng);
 T = tf(numg, deng)
+G1 = tf(1, [1 1])
+G2 = tf(1, [1 4])
+G3 = tf([1 3], [1 5])
 ```
 [Link](Lab1.m)
 
@@ -29,28 +32,42 @@ T = tf(numg, deng)
 
 #### Lab 2
 * Matlab
+```matlab
+```
+[Link](Lab2.m)
+
 * Simulink
 
-![Lab1_simulink](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%208/Experiment-5-1/Lab1_simulink.PNG)
+![Lab2_simulink](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%208/Experiment-5-1/Lab2_simulink.PNG)
 
 * Simulink LTI Viewer
 
-![Lab1_LTI](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%208/Experiment-5-1/Lab1_LTI.PNG)
+![Lab2_LTI](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%208/Experiment-5-1/Lab2_LTI.PNG)
 #### Lab 3
 * Matlab
+```matlab
+
+```
+[Link](Lab3.m)
+
 * Simulink
 
-![Lab1_simulink](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%208/Experiment-5-1/Lab1_simulink.PNG)
+![Lab3_simulink](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%208/Experiment-5-1/Lab3_simulink.PNG)
 
 * Simulink LTI Viewer
 
-![Lab1_LTI](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%208/Experiment-5-1/Lab1_LTI.PNG)
+![Lab3_LTI](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%208/Experiment-5-1/Lab3_LTI.PNG)
 #### Lab 4
 * Matlab
+```matlab
+
+```
+[Link](Lab4.m)
+
 * Simulink
 
-![Lab1_simulink](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%208/Experiment-5-1/Lab1_simulink.PNG)
+![Lab4_simulink](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%208/Experiment-5-1/Lab4_simulink.PNG)
 
 * Simulink LTI Viewer
 
-![Lab1_LTI](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%208/Experiment-5-1/Lab1_LTI.PNG)
+![Lab4_LTI](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%208/Experiment-5-1/Lab4_LTI.PNG)
