@@ -11,4 +11,4 @@
 
 ### Result
 
-![result]https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%206/Experiment-2-6-1/result.PNG()
+![result](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%206/Experiment-2-6-1/result.PNG)
