@@ -7,3 +7,6 @@ T = G1 * G2 * G3;
 numg = sym2poly(numg);
 deng = sym2poly(deng);
 T = tf(numg, deng)
+G1 = tf(1, [1 1])
+G2 = tf(1, [1 4])
+G3 = tf([1 3], [1 5])
