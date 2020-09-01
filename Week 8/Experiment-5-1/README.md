@@ -1,7 +1,7 @@
 # Experiment 5.1
 ### Question
 
-![Exp_5_1]()
+![Exp_5_1](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%208/Experiment-5-1/Exp5_1.PNG)
 
 ### Solution
 #### Lab 1
@@ -20,16 +20,37 @@ T = tf(numg, deng)
 [Link](Lab1.m)
 
 * Simulink
+
+![Lab1_simulink](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%208/Experiment-5-1/Lab1_simulink.PNG)
+
 * Simulink LTI Viewer
+
+![Lab1_LTI](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%208/Experiment-5-1/Lab1_LTI.PNG)
+
 #### Lab 2
 * Matlab
 * Simulink
+
+![Lab1_simulink](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%208/Experiment-5-1/Lab1_simulink.PNG)
+
 * Simulink LTI Viewer
+
+![Lab1_LTI](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%208/Experiment-5-1/Lab1_LTI.PNG)
 #### Lab 3
 * Matlab
 * Simulink
+
+![Lab1_simulink](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%208/Experiment-5-1/Lab1_simulink.PNG)
+
 * Simulink LTI Viewer
+
+![Lab1_LTI](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%208/Experiment-5-1/Lab1_LTI.PNG)
 #### Lab 4
 * Matlab
 * Simulink
+
+![Lab1_simulink](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%208/Experiment-5-1/Lab1_simulink.PNG)
+
 * Simulink LTI Viewer
+
+![Lab1_LTI](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%208/Experiment-5-1/Lab1_LTI.PNG)
