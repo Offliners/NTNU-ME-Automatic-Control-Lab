@@ -21,6 +21,8 @@
   * [Experiment 2.6.2](Week%206/Experiment-2-6-2/README.md)
 * Week 7 - Exam I
 * Week 8 - Time Response
+  * [Experiment 4.2](Week%208/Experiment-4-2/README.md)
+  * [Experiment 5.1](Week%208/Experiment-5-1/README.md)
 * Week 9 - Time Response
 * Week 10 - Reduction of Multiple Subsystems & Stability 
 * Week 11 - Steady-State Errors 
