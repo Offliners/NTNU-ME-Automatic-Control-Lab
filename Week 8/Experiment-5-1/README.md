@@ -67,7 +67,11 @@ T = G / (1 + G * H)
 #### Lab 4
 * Matlab
 ```matlab
-
+G = tf([1 1], conv([1 0], [1 2]));
+H = tf([1 3], [1 4]);
+H2 = 1 / H;
+G2 = 1 / G;
+T = G / (1 + G * H)
 ```
 [Link](Lab4.m)
 
