@@ -27,7 +27,7 @@ img3 = [real(pole1(1)*(-0.5))+pole1(1) real(pole1(2)*(-0.5))+pole1(2)];
 G2 = tf(real2(1)*real2(2), poly([real2(1) real2(2)]))
 G3 = tf(img3(1)*img3(2), poly([img3(1) img3(2)]))
 ```
-[Link](Lab4_1_2.m)
+[Link](Lab2.m)
 
 * Simulink
 
