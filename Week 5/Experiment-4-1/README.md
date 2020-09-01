@@ -58,3 +58,18 @@ G3 = tf(imag3(1)*imag3(2), poly([imag3(1) imag3(2)]))
 ![Simulink LTI Viewer](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%205/Experiment-4-1/Lab3_LTI.PNG)
 
 #### Lab 4
+* Matlab
+```matlab
+G1 = tf([25], [1 4 25])
+G2 = tf([25*4], [1 4*2 25*2*2])
+G3 = tf([25*4*4], [1 4*4 25*4*4])
+```
+[Link](Lab4.m)
+
+* Simulink
+
+![Lab3_simulink](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%205/Experiment-4-1/Lab2_simulink.PNG)
+
+* Simulink LTI Viewer
+
+![Simulink LTI Viewer](https://github.com/Offliners/NTNU-ME-Automatic-Control-Lab/blob/master/Week%205/Experiment-4-1/Lab4_LTI.PNG)
